@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Softimus-covid-19/static/css/main.97c3cbaa.chunk.css",
+    "main.js": "/Softimus-covid-19/static/js/main.92f2ddb9.chunk.js",
+    "main.js.map": "/Softimus-covid-19/static/js/main.92f2ddb9.chunk.js.map",
+    "runtime-main.js": "/Softimus-covid-19/static/js/runtime-main.10f274a0.js",
+    "runtime-main.js.map": "/Softimus-covid-19/static/js/runtime-main.10f274a0.js.map",
+    "static/js/2.fe9d6cf5.chunk.js": "/Softimus-covid-19/static/js/2.fe9d6cf5.chunk.js",
+    "static/js/2.fe9d6cf5.chunk.js.map": "/Softimus-covid-19/static/js/2.fe9d6cf5.chunk.js.map",
+    "index.html": "/Softimus-covid-19/index.html",
+    "precache-manifest.aef38750a52b0bcf2186157003b8e4b8.js": "/Softimus-covid-19/precache-manifest.aef38750a52b0bcf2186157003b8e4b8.js",
+    "service-worker.js": "/Softimus-covid-19/service-worker.js",
+    "static/css/main.97c3cbaa.chunk.css.map": "/Softimus-covid-19/static/css/main.97c3cbaa.chunk.css.map",
+    "static/js/2.fe9d6cf5.chunk.js.LICENSE.txt": "/Softimus-covid-19/static/js/2.fe9d6cf5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10f274a0.js",
+    "static/js/2.fe9d6cf5.chunk.js",
+    "static/css/main.97c3cbaa.chunk.css",
+    "static/js/main.92f2ddb9.chunk.js"
+  ]
+}
